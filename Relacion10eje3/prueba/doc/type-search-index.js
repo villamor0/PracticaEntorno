@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"src","l":"Falta"},{"p":"src","l":"FaltaException"},{"p":"src","l":"FaltasAlumnosEnAsignaturas"},{"p":"src","l":"Principal"}];updateSearchResults();
